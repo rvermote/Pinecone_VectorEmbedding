@@ -1,0 +1,136 @@
+001\Lecture 1 ｜ Modern Physics： Classical Mechanics (Stanford)\pyX8kQ-JzHI
+002\Lecture 2 ｜ Modern Physics： Classical Mechanics (Stanford)\h96SW0PfQcg
+003\Lecture 3 ｜ Modern Physics： Classical Mechanics (Stanford)\3YARPNZrcIY
+004\Lecture 4 ｜ Modern Physics： Classical Mechanics (Stanford)\FZDy_Dccv4s
+005\Lecture 5 ｜ Modern Physics： Classical Mechanics (Stanford)\ZpRpI0D7P7Y
+006\Lecture 6 ｜ Modern Physics： Classical Mechanics (Stanford)\14Yhzbn96Bc
+007\Lecture 7 ｜ Modern Physics： Classical Mechanics (Stanford)\0mcxUD53rrM
+008\Lecture 8 ｜ Modern Physics： Classical Mechanics (Stanford)\gUUbl444r74
+009\Lecture 9 ｜ Modern Physics： Classical Mechanics (Stanford)\NhNBW8a8-lI
+010\Lecture 1 ｜ Modern Physics： Quantum Mechanics (Stanford)\JzhlfbWBuQ8
+011\Lecture 2 ｜ Modern Physics： Quantum Mechanics (Stanford)\KokditqpAJg
+012\Lecture 3 ｜ Modern Physics： Quantum Mechanics (Stanford)\epzh76hNl8I
+013\Lecture 4 ｜ Modern Physics： Quantum Mechanics (Stanford)\oWe9brUwO0Q
+014\Lecture 5 ｜ Modern Physics： Quantum Mechanics (Stanford)\LBFBQr_xKEM
+015\Lecture 6 ｜ Modern Physics： Quantum Mechanics (Stanford)\tKbzlOU_ETk
+016\Lecture 7 ｜ Modern Physics： Quantum Mechanics (Stanford)\ktcMKnNHTt4
+017\Lecture 8 ｜ Modern Physics： Quantum Mechanics (Stanford)\tiXP6dND6SY
+018\Lecture 9 ｜ Modern Physics： Quantum Mechanics (Stanford)\7vzKUoBfWUY
+019\Lecture 10 ｜ Modern Physics： Quantum Mechanics (Stanford)\JIuU3xnOx7g
+020\Lecture 1 ｜ Quantum Entanglements, Part 1 (Stanford)\0Eeuqh9QfNI
+021\Lecture 2 ｜ Quantum Entanglements, Part 1 (Stanford)\VtBRKw1Ab7E
+022\Lecture 3 ｜ Quantum Entanglements, Part 1 (Stanford)\CaTF4QZ94Fk
+023\Lecture 4 ｜ Quantum Entanglements, Part 1 (Stanford)\5vfo512fvlE
+024\Lecture 5 ｜ Quantum Entanglements, Part 1 (Stanford)\XlLsTaJn9AQ
+025\Lecture 6 ｜ Quantum Entanglements, Part 1 (Stanford)\xXBx8_19nyw
+026\Lecture 7 ｜ Quantum Entanglements, Part 1 (Stanford)\F3viANPhfD0
+027\Lecture 8 ｜ Quantum Entanglements, Part 1 (Stanford)\C1erB9p5414
+028\Lecture 9 ｜ Quantum Entanglements, Part 1 (Stanford)\qg-95d6OJJM
+029\Lecture 1 ｜ Quantum Entanglements, Part 3 (Stanford)\3ZEYa7SRRsU
+030\Lectures 2 & 3 ｜ Quantum Entanglements, Part 3 (Stanford)\3mfNey1Z53k
+031\Lecture 4 ｜ Quantum Entanglements, Part 3 (Stanford)\hmoLr5hHPN8
+032\Lecture 5 ｜ Quantum Entanglements, Part 3 (Stanford)\niHEq9i3B-4
+033\Lecture 6 ｜ Quantum Entanglements, Part 3 (Stanford)\YTGvPL2qbFI
+034\Lecture 7 ｜ Quantum Entanglements, Part 3 (Stanford)\LLzRyBX1wF0
+035\Lecture 8 ｜ Quantum Entanglements, Part 3 (Stanford)\6gRhmeTjadw
+036\Lecture 9 ｜ Quantum Entanglements, Part 3 (Stanford)\Jm0sT3t-rb0
+037\Lecture 1 ｜ Modern Physics： Special Relativity (Stanford)\BAurgxtOdxY
+038\Lecture 2 ｜ Modern Physics： Special Relativity (Stanford)\AbrSKDvRTro
+039\Lecture 3 ｜ Modern Physics： Special Relativity (Stanford)\z4xwBcdk-5Q
+040\Lecture 4 ｜ Modern Physics： Special Relativity (Stanford)\BjUJra50bcY
+041\Lecture 5 ｜ Modern Physics： Special Relativity (Stanford)\vvCeOncgSoA
+042\Lecture 6 ｜ Modern Physics： Special Relativity (Stanford)\mIx_3veuTok
+043\Lecture 7 ｜ Modern Physics： Special Relativity (Stanford)\t2drgkIuJGU
+044\Lecture 8 ｜ Modern Physics： Special Relativity (Stanford)\R3rcfXSqsZM
+045\Special Relativity ｜ Lecture 9\sGyXdCb0l50
+046\Special Relativity ｜ Lecture 10\maqbS8sSxYA
+047\Einstein's General Theory of Relativity ｜ Lecture 1\hbmf0bB38h0
+048\Einstein's General Theory of Relativity ｜ Lecture 2\s8UrYIZhm60
+049\Einstein's General Theory of Relativity ｜ Lecture 3\hR7fWF_qBZI
+050\Einstein's General Theory of Relativity ｜ Lecture 4\ttMI0dmmkrE
+051\Einstein's General Theory of Relativity ｜ Lecture 5\WtPtxz3ef8U
+052\Einstein's General Theory of Relativity ｜ Lecture 6\Pm5ROyoaMZA
+053\Einstein's General Theory of Relativity ｜ Lecture 7\xOzVmC-4gpw
+054\Einstein's General Theory of Relativity ｜ Lecture 8\AC3TMizGpB8
+055\Einstein's General Theory of Relativity ｜ Lecture 9\XG02Yw7u2mc
+056\Einstein's General Theory of Relativity ｜ Lecture 10\VCRG1uzc9xg
+057\Einstein's General Theory of Relativity ｜ Lecture 11\6vdXlwDRRR8
+058\Einstein's General Theory of Relativity ｜ Lecture 12\fVqYlSNqSQk
+059\Cosmology ｜ Lecture 1\32wIKaLkvc4
+060\Cosmology ｜ Lecture 2\ERjkSbdn6-4
+061\Cosmology ｜ Lecture 3\rYQTAJ50A44
+062\Cosmology ｜ Lecture 4\KdBrQMkkDz8
+063\Cosmology ｜ Lecture 5\H3D5HGZIP4s
+064\Cosmology ｜ Lecture 6\di8egIk4cWY
+065\Cosmology ｜ Lecture 7\KATSfJjZGVQ
+066\Cosmology ｜ Lecture 8\9R57sdG61tA
+067\Lecture 1 ｜ Modern Physics： Statistical Mechanics\H1Zbp6__uNw
+068\Lecture 2 ｜ Modern Physics： Statistical Mechanics\UeVm6U3tMFM
+069\Lecture 3 ｜ Modern Physics： Statistical Mechanics\SmmGDn8OnTA
+070\Lecture 4 ｜ Modern Physics： Statistical Mechanics\jny9W7NtlK4
+071\Lecture 5 ｜ Modern Physics： Statistical Mechanics\uEZWml2XYeo
+072\Lecture 6 ｜ Modern Physics： Statistical Mechanics\DaDeF21kmMo
+073\Lecture 7 ｜ Modern Physics： Statistical Mechanics\cU7bj4dNMwY
+074\Lecture 8 ｜ Modern Physics： Statistical Mechanics\830_4EVNu5M
+075\Lecture 9 ｜ Modern Physics： Statistical Mechanics\ViKa9xZoMfo
+076\Lecture 10 ｜ Modern Physics： Statistical Mechanics\YeS_eRfKSpU
+077\Lecture 1 ｜ New Revolutions in Particle Physics： Basic Concepts\2eFvVzNF24g
+078\Lecture 2 ｜ New Revolutions in Particle Physics： Basic Concepts\oT7bTr5YEO4
+079\Lecture 3 ｜ New Revolutions in Particle Physics： Basic Concepts\UgPBUJRrYz8
+080\Lecture 4 ｜ New Revolutions in Particle Physics： Basic Concepts\eA8X8IU_fWY
+081\Lecture 5 ｜ New Revolutions in Particle Physics： Basic Concepts\TshXa3lGqQ8
+082\Lecture 6 ｜ New Revolutions in Particle Physics： Basic Concepts\wUySvFEwmj8
+083\Lecture 7 ｜ New Revolutions in Particle Physics： Basic Concepts\e22G9U7OlOc
+084\Lecture 8 ｜ New Revolutions in Particle Physics： Basic Concepts\Xt09jVssi7k
+085\Lecture 9 ｜ New Revolutions in Particle Physics： Basic Concepts\D7yXoNAg3J8
+086\Lecture 10 ｜ New Revolutions in Particle Physics： Basic Concepts\q-QaaKCvDUs
+087\Lecture 1 ｜ New Revolutions in Particle Physics： Standard Model\Igl8hE3Eac0
+088\Lecture 2 ｜ New Revolutions in Particle Physics： Standard Model\yy989li6xgY
+089\Lecture 3 ｜ New Revolutions in Particle Physics： Standard Model\DIEDkY2Y49s
+090\Lecture 4 ｜ New Revolutions in Particle Physics： Standard Model\n88Qe-aAAYE
+091\Lecture 5 ｜ New Revolutions in Particle Physics： Standard Model\3g6RtyGjX3o
+092\Lecture 6 ｜ New Revolutions in Particle Physics： Standard Model\5rytN74EOi0
+093\Lecture 7 ｜ New Revolutions in Particle Physics： Standard Model\7cKvhkFhXDk
+094\Lecture 8 ｜ New Revolutions in Particle Physics： Standard Model\fw4K3sgza04
+095\Lecture 9 ｜ New Revolutions in Particle Physics： Standard Model\qzGY-BrCUgA
+096\Lecture 10 ｜ New Revolutions in Particle Physics： Standard Model\QD8SEcoFyAw
+097\Lecture 1 ｜ String Theory and M-Theory\25haxRuZQUk
+098\Lecture 2 ｜ String Theory and M-Theory\-BleG7PBwEA
+099\Lecture 3 ｜ String Theory and M-Theory\gCyImLu0HSI
+100\Lecture 4 ｜ String Theory and M-Theory\CdgDLaxe2Q4
+101\Lecture 5 ｜ String Theory and M-Theory\-I7PjKyCnI0
+102\Lecture 6 ｜ String Theory and M-Theory\qllX-dkGfYI
+103\Lecture 7 ｜ String Theory and M-Theory\V8XBsPIPKDg
+104\Lecture 8 ｜ String Theory and M-Theory\s43SMaZHa50
+105\Lecture 9 ｜ String Theory and M-Theory\Tsav_xnegTk
+106\Lecture 10 ｜ String Theory and M-Theory\L1_3Xp3rT3c
+107\Lecture 1 ｜ Topics in String Theory\NZ-ElsvYKyo
+108\Lecture 2 ｜ Topics in String Theory\dmS5J6xM5s0
+109\Lecture 3 ｜ Topics in String Theory\i1s5eOJ3V6k
+110\Lecture 4 ｜ Topics in String Theory\SkEvsxg5Tu4
+111\Lecture 5 ｜ Topics in String Theory\EJrgKI8aXgQ
+112\Lecture 6 ｜ Topics in String Theory\5p4PvLUHH88
+113\Lecture 7 ｜ Topics in String Theory\kL0Bnf7RMUQ
+114\Lecture 8 ｜ Topics in String Theory\ieHX2bGTMQg
+115\Lecture 9 ｜ Topics in String Theory\jnItLp3NR5I
+116\Lecture 1 ｜ The Theoretical Minimum\iJfw6lDlTuA
+117\Lecture 2 ｜ The Theoretical Minimum\a6ANMKRBjA8
+118\Lecture 3 ｜ The Theoretical Minimum\-GO3SL5n30k
+119\Lecture 4 ｜ The Theoretical Minimum\tRWBoossG0Y
+120\Lecture 5 ｜ The Theoretical Minimum\sgQafF7tLSo
+121\Lecture 6 ｜ The Theoretical Minimum\1cLZsUEzUDs
+122\Lecture 7 ｜ The Theoretical Minimum\QuW24mTDB8s
+123\Lecture 8 ｜ The Theoretical Minimum\x0m2sQuAr34
+124\Lecture 9 ｜ The Theoretical Minimum\fTRKMAj5q_4
+125\Lecture 10 ｜ The Theoretical Minimum\dYtyslPtK8Y
+126\Advanced Quantum Mechanics Lecture 1\8mi0PoPvLvs
+127\Advanced Quantum Mechanics Lecture 2\7O1NhGP07Xo
+128\Advanced Quantum Mechanics Lecture 3\LKYs_xwWKY4
+129\Advanced Quantum Mechanics Lecture 4\ATxq2IEekk4
+130\Advanced Quantum Mechanics Lecture 5\A7PZftS7uOA
+131\Advanced Quantum Mechanics Lecture 6\D36VXLx0hOc
+132\Advanced Quantum Mechanics Lecture 7\l6vR825BR3c
+133\Advanced Quantum Mechanics Lecture 8\7G4C7scQX3A
+134\Advanced Quantum Mechanics Lecture 9\7a1hon7NJ1M
+135\Advanced Quantum Mechanics Lecture 10\DQUJpT_iz8U
+136\Demystifying the Higgs Boson with Leonard Susskind\JqNg819PiZY
