@@ -30,8 +30,13 @@ NUM_OF_VIDEOS=136
 #main loop for all videos
 
 for i in range(1,NUM_OF_VIDEOS+1):
+
+    print("Started processing video "+str(i))
+
     vidIndex = i.zfill(3,"0")
     result = model.transcribe(whisper.load_audio(videoFolder / "001.webm"))
+
+    print("Finished Speech-To-Text video "+str(i))
 
     filename = "whisper_output.json"
     with open(filename, 'w') as f:
@@ -75,6 +80,8 @@ for i in range(1,NUM_OF_VIDEOS+1):
         #insert embeddings together with metadata into pinecone index
         index.upsert(vectors=package)
         Total_package.append(package)
+    
+    print("Succesfully upserted video "+str(i)+" into pinecone index")
 
     with open(filename, 'w') as f:
         json.dump(Total_package, f, indent=4)
