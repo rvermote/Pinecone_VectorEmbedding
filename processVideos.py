@@ -1,5 +1,5 @@
 #This is the main processing file. For a more explanatory but less efficient version based on one video, see processVideosExplained.ipynb
-
+#started: 15:30 15/06/2023
 import whisper
 import os
 import numpy as np
@@ -43,7 +43,7 @@ for i in range(1,NUM_OF_VIDEOS+1):
 
     result = model.transcribe(whisper.load_audio(videoFolder / (vidIndex+".webm")))
 
-    print("Finished Speech-To-Text video "+str(i))
+    print("Finished Speech-To-Text video "+vidIndex)
 
     filename = "whisper_output.json"
     with open(filename, 'w') as f:
